@@ -19,11 +19,11 @@ Projetos que melhor representam meus interesses e minha evolução como desenvol
 
 Projetos desenvolvidos para clientes e necessidades reais:
 
-- **[Lais Bolos](https://github.com/jefferson-it/laisbolos)** — Sistema de gestão para cliente.
-- **[Suzy Modas](https://github.com/jefferson-it/suzymodas)** — Sistema desenvolvido para cliente.
-- **[Lais Thermal Printer](https://github.com/jefferson-it/lais-thermal-prin)** — Projeto auxiliar relacionado a impressão térmica.
+- **[Lais Bolos e Congelados](https://laisbolosecongelados.com.br/)** — Sistema de gestão desenvolvido para o negócio.
+- **Suzy Modas** — Projeto desenvolvido para cliente e atualmente abandonado.
+- **[Lais Thermal Printer](https://github.com/jefferson-it/lais-thermal-prin)** — Projeto público para impressão térmica.
 
-> Alguns projetos profissionais são privados ou proprietários e, por isso, nem todo o código está disponível publicamente.
+> Projetos profissionais privados não possuem links para o código-fonte neste perfil.
 
 ## 🎓 Projetos acadêmicos
 
@@ -65,11 +65,12 @@ Nem todo projeto precisa ser mantido como produto. Alguns existem simplesmente p
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-it&show_icons=true&theme=dracula&layout=compact)
 
-## 📫 Contato
+## 📫 Contato e conteúdo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-silva-4211b0249/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeff.silva_souza/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jefferson-it)
+- 📺 **[YouTube — Pequeno Aprendiz](https://www.youtube.com/@opaqueno)** — conteúdo sobre tecnologia, programação e software livre.
+- 📧 **[jeff.silvadsouza@gmail.com](mailto:jeff.silvadsouza@gmail.com)**
+- 📸 **[Instagram](https://www.instagram.com/jeff.silva_souza/)**
+- 🐙 **[GitHub](https://github.com/jefferson-it)**
 
 ---
 
